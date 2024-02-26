@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/static/css/main.c25d3356.css",
-    "main.js": "/static/js/main.6c60f676.js",
-    "service-worker.js": "/service-worker.js",
-    "index.html": "/index.html",
-    "main.c25d3356.css.map": "/static/css/main.c25d3356.css.map",
-    "main.6c60f676.js.map": "/static/js/main.6c60f676.js.map"
+    "main.css": "/aremoted/build/static/css/main.c25d3356.css",
+    "main.js": "/aremoted/build/static/js/main.ee19ba9c.js",
+    "service-worker.js": "/aremoted/build/service-worker.js",
+    "index.html": "/aremoted/build/index.html",
+    "main.c25d3356.css.map": "/aremoted/build/static/css/main.c25d3356.css.map",
+    "main.ee19ba9c.js.map": "/aremoted/build/static/js/main.ee19ba9c.js.map"
   },
   "entrypoints": [
     "static/css/main.c25d3356.css",
-    "static/js/main.6c60f676.js"
+    "static/js/main.ee19ba9c.js"
   ]
 }
