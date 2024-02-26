@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/aremoted/static/css/main.c25d3356.css",
+    "main.js": "/aremoted/static/js/main.32161664.js",
+    "service-worker.js": "/aremoted/service-worker.js",
+    "index.html": "/aremoted/index.html",
+    "main.c25d3356.css.map": "/aremoted/static/css/main.c25d3356.css.map",
+    "main.32161664.js.map": "/aremoted/static/js/main.32161664.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c25d3356.css",
+    "static/js/main.32161664.js"
+  ]
+}
